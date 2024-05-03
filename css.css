@@ -1,0 +1,119 @@
+.page1{
+    height: 700px;
+    width: 100%;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    border: 0px;
+}
+
+h1{
+
+    font-size: 3rem;
+    
+}
+
+.page1_h2{
+    font-size: 2rem;
+}
+
+.imagebirds{
+    
+    position: absolute;
+    left: 0px;
+}
+
+.imagelight{
+    position: absolute;
+    top: 10px;
+    right: 0px;
+}
+
+.page2{
+    height: 900px;
+    width: 100%;
+    background-color: rgb(195, 187, 250);
+    margin: 0px;
+    border: 0px;
+       
+}
+
+.myphoto img{
+    border-radius: 120px;
+    position: relative;
+    top: 10px;
+    left: 600px;    
+}
+
+.hello{
+    position: absolute;
+    left: 680px;
+}
+
+.introbody{
+    position: relative;
+    top: 10px;
+    margin: 50px;
+    font-size: 2rem;
+}
+
+.edu-qual{
+    display: flex;
+    justify-content: center;
+}
+
+.edu-body{
+    font-size: 1.5rem;
+    margin: 50px;
+}
+
+.proj-link{
+    font-size: 1.5rem;
+}
+
+.page3{
+    background-color: beige;
+    height: 500px;
+    width: 100%;
+    border: 0px;
+    margin: 0px;
+          
+}
+
+.biodata-heading{
+    display: flex;
+    justify-content: center;
+}
+
+.biodata{
+    display: grid;
+    grid-template-columns: 300px 200px;
+    grid-template-rows: repeat(6,50px);
+    border-color: black;
+    gap: 1px;
+        
+}
+
+.biodata-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    
+}
+
+.colomn{
+    display: flex;
+    background-color: grey;
+    justify-content: center;
+    align-items: center;
+}
+
+.manphoto{
+    position: absolute;
+    right: 70px;
+    top: 1650px;
+    
+    
+}
